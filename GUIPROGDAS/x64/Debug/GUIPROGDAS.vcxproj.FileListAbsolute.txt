@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\GUIPROGDAS\GUIPROGDAS\x64\Debug\GUIPROGDAS.vcxproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\GUIPROGDAS\GUIPROGDAS\x64\Debug\GUIPROGDAS.MyForm.resources
+C:\Users\ASUS\source\repos\GUIPROGDAS\GUIPROGDAS\x64\Debug\GUIPROGDAS.vcxproj.GenerateResource.cache
+C:\Users\Pongo\Downloads\GUIPROGDAS\GUIPROGDAS\GUIPROGDAS\x64\Debug\GUIPROGDAS.vcxproj.AssemblyReference.cache
+C:\Users\Pongo\Downloads\GUIPROGDAS\GUIPROGDAS\GUIPROGDAS\x64\Debug\GUIPROGDAS.MyForm.resources
+C:\Users\Pongo\Downloads\GUIPROGDAS\GUIPROGDAS\GUIPROGDAS\x64\Debug\GUIPROGDAS.vcxproj.GenerateResource.cache
+C:\Users\Pongo\Downloads\GUIPROGDAS\GUIPROGDAS\GUIPROGDAS\x64\Debug\GUIPROGDAS.StatisticForm.resources

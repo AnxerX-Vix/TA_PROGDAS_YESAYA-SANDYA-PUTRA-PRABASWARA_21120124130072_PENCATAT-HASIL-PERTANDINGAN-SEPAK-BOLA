@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\Pongo\Downloads\GUIPROGDAS\GUIPROGDAS\GUIPROGDAS\MyForm.cpp(6,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  StatisticForm.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  GUIPROGDAS.vcxproj -> C:\Users\Pongo\Downloads\GUIPROGDAS\GUIPROGDAS\x64\Debug\GUIPROGDAS.exe
